@@ -1,0 +1,14 @@
+/* .divnavbar{
+    display: flex;
+} */
+.navbarfooter{
+    background-color: #1F4690;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+}
+span{
+    color: white;
+}

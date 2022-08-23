@@ -1,0 +1,22 @@
+.grid{
+    display: flex;
+    justify-content:space-around!important;
+    flex-wrap: wrap;
+    
+    background-color:#3A5BA0 ;
+}
+.card{
+    flex-basis: 22%;
+    padding: 5rem 0!important;
+    margin-bottom: 2%;
+    box-shadow: 5px 10px ;
+}
+.card-img{
+    height: 50%;
+}
+.card-body{
+    text-align: center;
+}
+.img-bottom{
+    height: 80%;
+}
